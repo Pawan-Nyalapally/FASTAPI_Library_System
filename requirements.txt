@@ -1,0 +1,10 @@
+# Core Framework & Server
+fastapi
+uvicorn
+
+# Data Validation (Installed automatically with FastAPI )
+pydantic
+
+# Standard Utilities
+typing-extensions
+email-validator
